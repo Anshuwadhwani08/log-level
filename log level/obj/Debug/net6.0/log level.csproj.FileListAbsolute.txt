@@ -1,0 +1,32 @@
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.csproj.AssemblyReference.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.AssemblyInfoInputs.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.AssemblyInfo.cs
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.csproj.CoreCompileInputs.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\appsettings.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\log level.exe
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\log level.deps.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\log level.runtimeconfig.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\log level.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\log level.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets\msbuild.log level.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets\msbuild.build.log level.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.log level.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.log level.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\scopedcss\bundle\log level.styles.css
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.csproj.CopyComplete
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\refint\log level.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\log level.genruntimeconfig.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\log level\log level\obj\Debug\net6.0\ref\log level.dll
